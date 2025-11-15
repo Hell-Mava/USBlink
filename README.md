@@ -15,7 +15,7 @@
 USBlink is a lightweight, security‑focused Python framework used to detect, 
 monitor, and analyze suspicious USB activity in real time. It demonstrates 
 practical cybersecurity concepts such as BadUSB detection, device forensics, 
-and system monitoring — making it ideal for VAPT students and recruiter demos.
+and system monitoring making it ideal for VAPT students and recruiter demos.
 -------------------------------------------------------------------------------
 
 ## 🚀 Features (Premium Overview)
