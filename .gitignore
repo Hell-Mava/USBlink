@@ -1,0 +1,14 @@
+# ============================================================
+# Project: USBlink
+# Author: Sohel Shaik
+# GitHub: https://github.com/Hell-Mava
+# Description: Git ignore for Python project
+# ============================================================
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+report_*.txt
+reports/
+.DS_Store
