@@ -6,10 +6,10 @@ USBlink README
 # 🔗 USBlink  
 ### A Modular Python Toolkit for USB Threat Detection, BadUSB Analysis & Device Security
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg)]()
-[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
+[Python 3.10+]
+[MIT License]
+[Windows | Linux]
+[Active Development]
 
 </div>
 
@@ -33,16 +33,22 @@ It helps identify BadUSB attacks, unauthorized devices, and unusual file transfe
 
 ## 🛠️ Installation & Setup
 
+1️⃣ Clone the repository  
 git clone https://github.com/Hell-Mava/USBlink.git
 
+2️⃣ Move into the project folder  
 cd USBlink
 
+3️⃣ Create a virtual environment  
 python -m venv venv
 
-source venv/bin/activate   # Linux/macOS
+4️⃣ Activate the virtual environment  
+Linux/macOS:  
+source venv/bin/activate  
+Windows:  
+venv\Scripts\activate
 
-venv\Scripts\activate      # Windows
-
+5️⃣ Install dependencies  
 pip install -r requirements.txt
 
 ---
@@ -53,9 +59,9 @@ python usblink.py run
 
 Example output:
 
-[+] Monitoring USB devices...
-[+] Device detected: Kingston USB 3.0
-[!] Suspicious device flagged: Unknown Vendor ID
+[+] Monitoring USB devices...  
+[+] Device detected: Kingston USB 3.0  
+[!] Suspicious device flagged: Unknown Vendor ID  
 Report saved: report_2025-11-15.txt
 
 ---
@@ -79,10 +85,8 @@ This project is licensed under the MIT License.
 
 Sohel Shaik  
 GitHub: Hell-Mava  
-LinkedIn: https://www.linkedin.com/in/sohel-shaik-894288282/
+Email: 1914sohel@gmail.com
 
 ---
 
-<div align="center">
-✨ USBlink — A small tool with strong defensive potential. ✨
-</div>
+USBlink — A small tool with strong defensive potential.
