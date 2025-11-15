@@ -90,6 +90,7 @@ Report saved: report_YYYY-MM-DD.txt
 ## 📂 Project Structure
 
 **USBLINK/**
+
 │── usblink.py          → Main execution script  
 │── modules/            → Detection & scanning modules  
 │── utils/              → Helper utilities  
