@@ -34,10 +34,13 @@ It helps identify BadUSB attacks, unauthorized devices, and unusual file transfe
 ## 🛠️ Installation & Setup
 
 git clone https://github.com/Hell-Mava/USBlink.git
+
 cd USBlink
 
 python -m venv venv
+
 source venv/bin/activate   # Linux/macOS
+
 venv\Scripts\activate      # Windows
 
 pip install -r requirements.txt
