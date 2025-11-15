@@ -12,3 +12,22 @@ __pycache__/
 report_*.txt
 reports/
 .DS_Store
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
