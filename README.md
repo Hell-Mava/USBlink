@@ -57,18 +57,6 @@ Report saved: report_2025-11-15.txt
 
 ---
 
-## 📂 Repository Structure
-
-USBLINK/
-│── usblink.py
-│── modules/
-│── utils/
-│── reports/
-│── requirements.txt
-│── README.md
-
----
-
 ## 📌 Why This Project Is Useful
 
 - Great for students learning cybersecurity  
@@ -88,7 +76,7 @@ This project is licensed under the MIT License.
 
 Sohel Shaik  
 GitHub: Hell-Mava  
-Email: 1914sohel@gmail.com
+LinkedIn: https://www.linkedin.com/in/sohel-shaik-894288282/
 
 ---
 
