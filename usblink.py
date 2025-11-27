@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-# ============================================================
+# =============================================================
 # Project: USBlink
 # Author: Sohel Shaik
 # GitHub: https://github.com/Hell-Mava
 # Description: Recruiter-friendly USB security toolkit
-# ============================================================
+# =============================================================
 
 from utils.logger import log_info, log_warn
 from utils.backend_check import backend_name
