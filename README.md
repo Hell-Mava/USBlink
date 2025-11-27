@@ -6,7 +6,7 @@
 ### A Modular Python Toolkit for USB Threat Detection, BadUSB Analysis & Device Security
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg)]()
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
