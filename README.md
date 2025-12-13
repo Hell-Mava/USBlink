@@ -72,11 +72,46 @@ Create an isolated Python environment.
 
 -------------------------------------------------------------------------------
 ## ▶️ Running USBlink
-
-### 1️⃣ Start the Tool
 **Launch the main script.**
 
     python usblink.py run
+    
+### 1️⃣ Start the Tool
+**USBlink Commands (CLI Usage)**
+
+Run the toolkit with default settings
+
+    python usblink.py
+    
+Monitor USB plug/unplug events
+
+    python usblink.py --monitor
+
+Detect BadUSB/HID attacks
+
+    python usblink.py --badusb
+
+Scan USB storage for malware/payloads
+
+    python usblink.py --scan
+
+Detect unusual USB behavior patterns
+
+    python usblink.py --anomaly
+
+Generate logs and summaries
+
+    python usblink.py --report
+
+Load trusted devices list
+
+    python usblink.py --config config/trust.yaml
+
+Run all modules together
+
+    python usblink.py --all
+
+-------------------------------------------------------------------------------
 
 **Expected Output:**
 
